@@ -6,3 +6,5 @@ public interface Pokemon {
     int power();
 
 }
+
+
