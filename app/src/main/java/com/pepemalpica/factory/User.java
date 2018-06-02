@@ -5,3 +5,4 @@ public interface User {
     String role();
     String description();
 }
+
